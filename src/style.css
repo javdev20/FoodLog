@@ -31,3 +31,13 @@ body {
     margin-right: 20px;
 }
 
+.typewriter h1 {
+    color: #fff;
+    font-family: monospace;
+    overflow: hidden;
+    border-right: 0.15em solid orange;
+    white-space: nowrap;
+    margin: 20px auto;
+    letter-spacing: 0.15em;
+}
+
